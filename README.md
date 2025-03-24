@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Grappeyy/Grappeyy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Grappeyy/Grappeyy/output/snake.svg" alt="github-snake" />
 
 ###

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Front-End Developer with 2 years of experience crafting beautiful, responsive, and user-friendly web applications. I'm passionate about clean code, modern UI/UX, and bringing designs to life with HTML, CSS, JavaScript, and React.<br><br>🚀 What I Do:<br><be><li>Build pixel-perfect, interactive UIs</li><be><li>Optimize performance for a seamless user experience</li><be><li>Work with modern frameworks like React & Next.js</li><li>Collaborate with teams to turn ideas into reality</li></p>
+<p align="left">I'm a Front-End Developer with 2 years of experience crafting beautiful, responsive, and user-friendly web applications. I'm passionate about clean code, modern UI/UX, and bringing designs to life with HTML, CSS, JavaScript, and React.<br><br>🚀 What I Do:<br><br>-  Build pixel-perfect, interactive UIs<br>- Optimize performance for a seamless user experience<br>- Work with modern frameworks like React & Next.js<br>- Collaborate with teams to turn ideas into reality</p>
 
 ###
 
@@ -12,6 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 ###

@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Johannes Andries Nagel and I'm a 26 from South Africa, currently living in Albania</h2>
+<h2 align="left">Hi 👋! My name is Johannes Andries Nagel and I'm 26 from South Africa, currently living in Albania</h2>
 
 ###
 
-<p align="left">I'm a Front-End Developer with 2 years of experience crafting beautiful, responsive, and user-friendly web applications. I'm passionate about clean code, modern UI/UX, and bringing designs to life with HTML, CSS, JavaScript, and React.<br><br>🚀 What I Do:<br><br>-  Build pixel-perfect, interactive UIs<br>- Optimize performance for a seamless user experience<br>- Work with modern frameworks like React & Next.js<br>- Collaborate with teams to turn ideas into reality</p>
+<p align="left">I'm a Front-End Developer with 1 years of experience crafting beautiful, responsive, and user-friendly web applications. I'm passionate about clean code, modern UI/UX, and bringing designs to life with HTML, CSS, JavaScript, and React.<br><br>🚀 What I Do:<br><br>-  Build pixel-perfect, interactive UIs<br>- Optimize performance for a seamless user experience<br>- Work with modern frameworks like React & Next.js<br>- Collaborate with teams to turn ideas into reality</p>
 
 ###
 

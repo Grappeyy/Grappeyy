@@ -39,6 +39,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Grappeyy/Grappeyy/output/snake.svg" alt="github-snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Grappeyy/Grappeyy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Grappeyy/Grappeyy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Grappeyy/Grappeyy/output/github-snake.svg" />
+</picture>
 
 ###
